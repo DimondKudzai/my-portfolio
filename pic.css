@@ -1,0 +1,142 @@
+.logo{
+	text-align: left;
+	margin-left: 9px;
+	margin-top: 0px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+
+}
+.pics{
+	text-align: center;
+}
+.one{
+	z-index: 10;
+	position: -webkit-sticky;
+	position: stick;
+	top: 0px;
+}
+.two{
+	z-index: 9;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 100px;
+}
+button{
+	border: 0px;
+	position: ;
+	border-style: ;
+	border-color: ;
+	color: black;
+	background-color: black;
+	float: right;
+	margin-right: 110px;
+	margin-top: 5px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+}
+.logoTwo{
+	text-align: center;
+	width: 80%;
+	text-align: ;
+	height: 250px;
+	background-color: "#ccc";
+}
+hr{
+	width: 100%;
+	color: blue;
+	background-color: blue;
+	height: 4px;
+	border-radius: 
+}
+.welcome{
+	text-align: center;
+	color: blue;
+	text-shadow: 5px 5px 5px black;
+}
+.poem{
+	margin-left: px;
+	: center;
+	color: white;
+	background-color: ;
+	width: ;
+	text-align: center;
+}
+.contact{
+	margin-right: 410px;
+	background-color: blue;
+	color: white;
+	border-style: ;
+	text-align: center;
+	height: 50px;
+	width: 120px;
+	border-radius: 10px 10px 10px 10px;
+}
+.tableTwo{
+	margin-left: 385px;
+	border-radius: 10px 10px 10px 10px;
+}
+.butt{
+	text-align: center;
+	background-color: #ccc;
+	border-radius:10px 10px 10px 10px; 
+}
+.last{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 13px;
+
+}
+.one{
+	background-image: url("file:///C:/Users/EMPIRE/Documents/freedesktop.jpg");
+	background-position:50%-50px;
+	background-size: 100%: 
+	background-repeat: no-repeat;
+}
+.menu{
+	background-color: black;
+	color: white;
+	margin-right: 20px;
+	text-align: ;
+	margin-top: 10px;
+	position: -webkit-sticky;
+	position: sticky;
+    top: 10px;
+    border-radius: 9px 9px 9px 9px; 
+}
+.menu a{
+	color: white;
+}
+table .men{
+    margin-right: 20px;
+	text-align: ;
+	margin-top: 10px;
+	position: -webkit-sticky;
+	position: sticky;	
+	top: 10px;
+	border-radius: 9px 9px 9px 9px;
+}
+.para{
+	text-align: center;
+	font-size: 13px;
+	color: white;
+}
+.list{
+	text-align: center;
+	color: white;
+	font-size: 13px;
+}
+h3{
+	color: white;
+	text-align: center;
+}
+.me{
+	background-color: black;
+	font-size: 13px;
+	color: white;
+	text-shadow: 5px 5px 5px 5px black;
+	text-align: center;
+
+}

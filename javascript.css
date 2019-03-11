@@ -1,0 +1,51 @@
+h1{
+text-align:center;
+color:red;
+text-shadow:5px 5px 5px blue;
+}
+body{
+background-image:url("file:///C:/Users/EMPIRE/Documents/form.jpg");
+background-size: 100%;
+background-position: 100%-0%;
+background-repeat: no-repeat;
+font-size: 9px;
+}
+.image{
+text-align: center;
+color: blue;
+float: center;
+}
+button{
+color: black;
+border: "1px";
+border-color: blue;
+font-size: 9px;
+}
+.change{
+  position: obsolete;
+  background: #ccc;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 0px;
+  font-size: 70px;
+  padding-left: 0px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+}
+.img{
+position: obsulute;
+margin-bottom: 0px;
+position: -webkit-sticky;
+position: sticky;
+bottom: 0px;
+z-index: 1;
+}
+.me{
+z-index: 2;
+}
+.text{
+boder: "1px";
+border: "blue";
+font-size: 18px;
+}
