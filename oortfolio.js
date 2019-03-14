@@ -19,5 +19,5 @@ alert("Hello,good afternoon")
 alert("Hello,good afternoon")
 }
 else{
-  alert("Hello,good evining")
+  alert("Hello,good evening")
 }
