@@ -1,0 +1,69 @@
+body{
+font-family: Arial,Sans Serif;
+}
+.mine{
+text-align: ;
+margin-top: 150px;
+position: -webkit-sticky;
+position: sticky;
+top: 250px;
+z-index: 1;
+}
+.me{
+margin-left:200px;
+border-radius: 50%;
+float: left;
+}
+.company{
+text-align: center;
+margin-top: 150px;
+position: -webkit-sticky;
+position: sticky;
+top: 150px;
+z-index: 4;
+}
+.content{
+background-color:white;
+text-align: left;
+top: px;
+position: relative;
+z-index: 3;
+width=100%;
+}
+.logo{
+margin-left: 40%;
+}
+.last{
+text-align: center;
+}
+.laptops{
+background-color: white;
+position: reletive;
+z-index: 5;
+}
+.one{
+margin-left: 300px;
+float: let;
+}
+.two{
+margin-left: 300px;
+float: let;
+}
+.three{
+margin-left: 300px;
+float: let;
+}
+.four{
+margin-left: 300px;
+float: let;
+}
+.five{
+margin-left: 300px;
+float: let;
+}
+span{
+background-color: white;
+float:right;
+margin-right: 230px;
+font-size: 13px;
+}
